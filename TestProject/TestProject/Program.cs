@@ -10,6 +10,13 @@ namespace TestProject
     {
         static void Main(string[] args)
         {
+            Message();
+            Console.ReadLine();
+        }
+
+        static void Message()
+        {
+            Console.WriteLine("Hello World");
         }
     }
 }

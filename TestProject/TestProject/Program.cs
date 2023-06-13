@@ -11,6 +11,7 @@ namespace TestProject
         static void Main(string[] args)
         {
             Message();
+            int num = Message();
             Console.ReadLine();
         }
 

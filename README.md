@@ -1,1 +1,1 @@
-# CSI120DemoDay
+This is a repo made for learning GIT.
